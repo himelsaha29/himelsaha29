@@ -3,6 +3,7 @@
 ### 🎓 Studying Computer Engineering @ McGill University
 ### 📱💻🎧 Tech geek
 ### ✈️ Aviation enthusiast
+### 📫 [Contact me!](mailto:himelsaha29@live.com)
 
 
 
