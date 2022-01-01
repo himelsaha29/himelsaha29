@@ -8,4 +8,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himelsaha29&show_icons=true&locale=en&theme=merko" alt="himelsaha29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himelsaha29&" alt="himelsaha29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himelsaha29&theme=neon-dark" alt="himelsaha29" /></p>
