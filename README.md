@@ -1,10 +1,10 @@
-# Hey 👋 I'm Himel <img src="https://media4.giphy.com/media/8EoCZQ7lDDVKNMvNzL/giphy.gif"  width="5%" height="5%"/>
+# Hey 👋 I'm Himel <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" alt="android" width="20" height="20"/> <img src="https://media4.giphy.com/media/8EoCZQ7lDDVKNMvNzL/giphy.gif"  width="5%" height="5%"/>
 
 ### 🎓 Studying Computer Engineering @ McGill University
 ### 📱💻🎧 Tech geek
-### ✈️ Aviation enthusiast
+### ✈️ Aviation enthusiast - A350/B787👌
 ### ☕ Cannot function without coffee
-### 📫 [Contact me!](mailto:himelsaha29@live.com)
+### 📫 Not on Instagram, but hey, you can always follow me here and [drop](mailto:himelsaha29@live.com) me a line!
 
 
 
