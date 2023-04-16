@@ -1,4 +1,4 @@
-# Hey 👋 I'm Himel <picture><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" alt="android" width="20" height="20"/></picture>  <picture><img src="https://media4.giphy.com/media/8EoCZQ7lDDVKNMvNzL/giphy.gif"  width="5%" height="5%"/></picture>
+# Hey 👋 I'm Himel <picture><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" alt="android" width="20" height="20"/></picture>       <picture><img src="https://media4.giphy.com/media/8EoCZQ7lDDVKNMvNzL/giphy.gif"  width="5%" height="5%"/></picture>
 
 ### 🎓 Studying Computer Engineering @ McGill University
 ### 📱💻🎧 Tech geek
